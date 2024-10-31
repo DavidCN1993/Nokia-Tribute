@@ -1,0 +1,56 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #FBEFDD;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+#main {
+  max-width: 800px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  
+}
+#img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px; 
+  background-color: #FFEDD5; 
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px; 
+}
+#img-caption {
+  color: black; 
+  font-style: italic; 
+  margin-top: 10px;
+}
+#tribute-info {
+  color: black;
+  margin: 15px 0; 
+}
+h2 {
+  color: #4CAF50; 
+  margin-top: 30px; 
+}
+#tribute-link {
+  color: #007BFF; 
+  text-decoration: none;
+  font-weight: bold; 
+}
+#tribute-link:hover {
+  text-decoration: underline; 
+  color: #0056b3; 
+}
+ul {
+  list-style-type: square; 
+  padding-left: 20px; 
+  color: black; 
+}
