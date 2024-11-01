@@ -13,7 +13,7 @@ Getting Started
 
 1. Clone the repository and Copy code:
 
-git clone https://github.com/yourusername/nokia-3310-tribute.git
+git clone https://github.com/DavidCN1993/nokia-3310-tribute.git
 
 2. Open the Project: Open the index.html file in your web browser to view the tribute page.
 
